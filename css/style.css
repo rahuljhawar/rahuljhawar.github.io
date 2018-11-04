@@ -586,8 +586,8 @@ body {
         margin-left: 0;
     }
     .project-card{
-        width: 22rem;
-        height: 22rem;
+        width: 25rem;
+        height: 25rem;
     }
     .project-card:not(:last-child){
         margin-right: 0;
